@@ -1,2 +1,10 @@
-*.class
-*.log
+
+.bsp/
+
+.idea/
+
+project/
+
+target/
+
+build.sbt
