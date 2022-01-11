@@ -1,4 +1,4 @@
-package fireworks
+package week_1.fireworks
 
 import doodle.core.Color
 import doodle.java2d.*
